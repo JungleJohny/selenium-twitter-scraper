@@ -8,7 +8,7 @@
 pip install -r requirements.txt
 ```
 
-## Authentication Options
+## Authentication Optionss
 
 ### Using Environment Variable
 
